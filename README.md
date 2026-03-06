@@ -34,7 +34,7 @@ Para reproduzir este projeto, você precisará dos seguintes componentes:
 1. Monte o circuito na protoboard seguindo o esquema de pinos acima.
 2. Clone este repositório:
    ```bash
-   git clone 
+   git clone [https://github.com/Jhon-Victor-Ramos/atividade-arduino-com-efeitos.git](https://github.com/Jhon-Victor-Ramos/atividade-arduino-com-efeitos.git)
    ```
 3. Abra o arquivo `.ino` na Arduino IDE.
 4. Conecte sua placa via USB e faça o upload do código.
